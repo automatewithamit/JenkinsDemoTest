@@ -4,7 +4,7 @@
 
     <test name="YatraFunctionalTests">
 
-            <class name="com.yatra.tests.HotelSearchTest"/>
+            <class name="com.automatewithamit.qa.JenkinsDemoTest"/>
 
     </test>
 
